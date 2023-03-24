@@ -10,6 +10,7 @@ Next.js の自分用のスタートコードです。次のライブラリが使
 - [recoil](https://recoiljs.org/)
 - [Reset CSS](https://meyerweb.com/eric/tools/css/reset/)
 - [goober](https://goober.js.org/)
+- [React Icons](https://react-icons.github.io/react-icons/)
 - [dayjs](https://day.js.org/)
 - [hashids](https://hashids.org/)
 
